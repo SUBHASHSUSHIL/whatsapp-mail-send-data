@@ -1,0 +1,6 @@
+@WhatsAppMailSendData_HostAddress = http://localhost:5249
+
+GET {{WhatsAppMailSendData_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
